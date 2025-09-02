@@ -57,7 +57,7 @@ export default function Home() {
         <div className="flex flex-wrap justify-center gap-8 py-8">
           {/* Card 1 */}
           <div className="bg-slate-900 rounded-lg shadow-lg p-6 max-w-xs flex flex-col items-center justify-around">
-            <Image src="/hangoverlogo.png" alt="Proyecto 1" width={200} height={120} className="rounded-md mb-4 " />
+            <Image src="/hangoverLogo.png" alt="Proyecto 1" width={200} height={120} className="rounded-md mb-4 " />
             <h3 className="text-xl font-semibold mb-2">Hangover</h3>
             <p className="text-gray-300 mb-4 text-center">
               Una red social de prendas de ropa personalizables, con funcionalidades de red social, e-commerce, y diseñador de ropa integrado.
