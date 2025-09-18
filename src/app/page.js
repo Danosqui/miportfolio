@@ -16,8 +16,7 @@ export default function Home() {
 
         <div>
           <h1 className="text-6xl">Hola! Soy Dante.</h1>
-          <p className="text-justify max-w-md pt-2">Soy un desarrollador web full-stack y el resto de lo que voy a poner aca lo dejo 
-            para despues pero tengo que rellenar aca el parrafo para ver como va quedando en terminos de estilo</p>
+          <p className="text-justify max-w-md pt-2">Soy un desarrollador web full-stack, egresado de Ort con bachiller en desarrollo de aplicaciones y estudiante de Lic. en Gestion de las Tecnologias de la información en UADE.</p>
         </div>
       </div>
       
